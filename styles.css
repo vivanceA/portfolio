@@ -1,0 +1,89 @@
+/* Add this to your styles.css file */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffcc;
+    /* Light Yellow */
+}
+
+header {
+    background-color: #00bfff;
+    /* Blue */
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.section {
+    padding: 50px;
+}
+
+.content {
+    text-align: center;
+    /* Center content within sections */
+}
+
+.left {
+    text-align: center;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    max-width: 150px;
+}
+
+.right {
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #00bfff;
+    /* Blue */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+}
+
+/* Add this to your styles.css file */
+
+/* ... (previous styles) ... */
+
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 0 10px;
+    padding: 5px 10px;
+    /* Adjusted padding */
+    background-color: #00bfff;
+    /* Blue */
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* ... (remaining styles) ... */
